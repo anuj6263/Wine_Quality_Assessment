@@ -706,3 +706,30 @@ x==========x]
 [2023-11-28 15:59:18,438: INFO: main: >>>>>> stage Model evaluation stage completed <<<<<<
 
 x==========x]
+[2023-11-28 16:23:21,529: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.21.57.121:8080]
+[2023-11-28 16:23:21,530: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2023-11-28 16:23:21,535: INFO: _internal:  * Restarting with stat]
+[2023-11-28 16:23:23,231: WARNING: _internal:  * Debugger is active!]
+[2023-11-28 16:23:23,237: INFO: _internal:  * Debugger PIN: 111-249-576]
+[2023-11-28 16:24:07,115: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.21.57.121:8080]
+[2023-11-28 16:24:07,116: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2023-11-28 16:24:07,120: INFO: _internal:  * Restarting with stat]
+[2023-11-28 16:24:08,748: WARNING: _internal:  * Debugger is active!]
+[2023-11-28 16:24:08,754: INFO: _internal:  * Debugger PIN: 111-249-576]
+[2023-11-28 16:24:37,697: INFO: _internal: 127.0.0.1 - - [28/Nov/2023 16:24:37] "GET / HTTP/1.1" 200 -]
+[2023-11-28 16:24:38,117: INFO: _internal: 127.0.0.1 - - [28/Nov/2023 16:24:38] "GET /static/css/styles.css HTTP/1.1" 200 -]
+[2023-11-28 16:24:38,121: INFO: _internal: 127.0.0.1 - - [28/Nov/2023 16:24:38] "GET /static/css2/style.css HTTP/1.1" 200 -]
+[2023-11-28 16:24:38,127: INFO: _internal: 127.0.0.1 - - [28/Nov/2023 16:24:38] "GET /static/css2/nunito-font.css HTTP/1.1" 200 -]
+[2023-11-28 16:24:38,158: INFO: _internal: 127.0.0.1 - - [28/Nov/2023 16:24:38] "GET /static/js/scripts.js HTTP/1.1" 200 -]
+[2023-11-28 16:24:42,126: INFO: _internal: 127.0.0.1 - - [28/Nov/2023 16:24:42] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -]
+[2023-11-28 16:24:42,140: INFO: _internal: 127.0.0.1 - - [28/Nov/2023 16:24:42] "GET /static/assets/img/form-v9.jpg HTTP/1.1" 200 -]
+[2023-11-28 16:24:42,214: INFO: _internal: 127.0.0.1 - - [28/Nov/2023 16:24:42] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -]
+[2023-11-28 16:24:43,291: INFO: _internal: 127.0.0.1 - - [28/Nov/2023 16:24:43] "GET /static/assets/favicon.ico HTTP/1.1" 200 -]
+[2023-11-28 16:26:55,795: INFO: _internal:  * Detected change in 'C:\\anuj\\Computer Science\\code\\Wine_quality_Assessment\\app.py', reloading]
+[2023-11-28 16:26:55,986: INFO: _internal:  * Restarting with stat]
