@@ -56,3 +56,62 @@ Traceback (most recent call last):
   File "C:\Program Files\Python311\Lib\zipfile.py", line 1369, in _RealGetContents
     raise BadZipFile("File is not a zip file")
 zipfile.BadZipFile: File is not a zip file
+[2023-11-28 10:21:36,074: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-28 10:21:36,077: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-28 10:21:36,082: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-11-28 10:21:36,085: INFO: common: created directory at: artifacts]
+[2023-11-28 10:21:36,088: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-11-28 10:21:40,975: INFO: 397179955: artifacts/data_ingestion/data.zip download! with following info: 
+Server: GitHub.com
+Date: Tue, 28 Nov 2023 04:51:36 GMT
+Content-Type: text/html; charset=utf-8
+Vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With
+ETag: W/"0da476f1450a7c2fcf64c3aef2e3260c"
+Cache-Control: max-age=0, private, must-revalidate
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: default-src 'none'; base-uri 'self'; child-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.githubcopilot.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com cdn.optimizely.com logx.optimizely.com/v1/events objects-origin.githubusercontent.com *.actions.githubusercontent.com wss://*.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/ productionresultssa1.blob.core.windows.net/ productionresultssa2.blob.core.windows.net/ productionresultssa3.blob.core.windows.net/ productionresultssa4.blob.core.windows.net/ productionresultssa5.blob.core.windows.net/ productionresultssa6.blob.core.windows.net/ productionresultssa7.blob.core.windows.net/ productionresultssa8.blob.core.windows.net/ productionresultssa9.blob.core.windows.net/ github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com support.github.com; img-src 'self' data: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com secured-user-images.githubusercontent.com/ user-images.githubusercontent.com/ private-user-images.githubusercontent.com opengraph.githubassets.com github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com objects-origin.githubusercontent.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/ private-user-images.githubusercontent.com github-production-user-asset-6210df.s3.amazonaws.com gist.github.com; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; upgrade-insecure-requests; worker-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/
+Set-Cookie: _gh_sess=EYdiuJQ3c9p1jpwfeCDDUmOQ%2FjM4VrRIqhGLN3LAEq1040TNbEFlvrSspHqQcXQV7A3aOw3n%2F%2FZHZ2l%2Bzgba6slYGKebRXXKqV0178OLTrnqldJUZj7X%2BphXzymSEh2ldqFbuxOqvcgbdJmuBJQTqL%2BQwbvsP4y1YQGWOhHbPLvbIk6fvSMZB9kxVejdtoz4sSLN0zwdhLuFyn2dpkhP2QGsUdlF0n3P7ypmIN9FxA9IqhuMCc7HrTw55MlRfm2Zpw648ywk60vY05cM1DPFQA%3D%3D--QlG5IKLl75tUK8jX--H8k6dyYPvDGyucyMZfXukw%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax
+Set-Cookie: _octo=GH1.1.501188830.1701147095; Path=/; Domain=github.com; Expires=Thu, 28 Nov 2024 04:51:35 GMT; Secure; SameSite=Lax
+Set-Cookie: logged_in=no; Path=/; Domain=github.com; Expires=Thu, 28 Nov 2024 04:51:35 GMT; HttpOnly; Secure; SameSite=Lax
+Accept-Ranges: bytes
+Transfer-Encoding: chunked
+X-GitHub-Request-Id: CA76:6989B:151321:191136:656571D7
+connection: close
+
+]
+[2023-11-28 10:21:40,976: INFO: 397179955: artifacts/data_ingestion]
+[2023-11-28 10:28:21,445: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-28 10:28:21,448: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-28 10:28:21,452: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-11-28 10:28:21,454: INFO: common: created directory at: artifacts]
+[2023-11-28 10:28:21,456: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-11-28 10:28:21,458: INFO: 397179955: File already exists of size: ~ 127 KB]
+[2023-11-28 10:28:21,459: INFO: 397179955: artifacts/data_ingestion]
+[2023-11-28 10:29:18,092: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-28 10:29:18,095: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-28 10:29:18,098: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-11-28 10:29:18,101: INFO: common: created directory at: artifacts]
+[2023-11-28 10:29:18,103: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-11-28 10:29:18,104: INFO: 397179955: File already exists of size: ~ 127 KB]
+[2023-11-28 10:29:18,106: INFO: 397179955: artifacts/data_ingestion]
+[2023-11-28 10:30:37,609: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-28 10:30:37,613: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-28 10:30:37,617: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-11-28 10:30:37,619: INFO: common: created directory at: artifacts]
+[2023-11-28 10:30:37,620: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-11-28 10:30:37,622: INFO: 397179955: File already exists of size: ~ 23 KB]
+[2023-11-28 10:30:37,623: INFO: 397179955: artifacts/data_ingestion]
+[2023-11-28 10:32:00,009: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-11-28 10:32:00,012: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-28 10:32:00,013: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-28 10:32:00,017: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-11-28 10:32:00,020: INFO: common: created directory at: artifacts]
+[2023-11-28 10:32:00,021: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-11-28 10:32:00,022: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2023-11-28 10:32:00,023: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
