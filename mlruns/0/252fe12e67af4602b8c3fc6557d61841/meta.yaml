@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/anuj/Computer%20Science/code/Wine_quality_Assessment/mlruns/0/252fe12e67af4602b8c3fc6557d61841/artifacts
+end_time: 1701165208330
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 252fe12e67af4602b8c3fc6557d61841
+run_name: traveling-skink-735
+run_uuid: 252fe12e67af4602b8c3fc6557d61841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701165204991
+status: 3
+tags: []
+user_id: Anuj Shrivatri
